@@ -1,0 +1,23 @@
+{
+  "name": "com.unity.ads",
+  "displayName": "Advertisement",
+  "version": "3.4.9",
+  "unity": "2018.4",
+  "unityRelease": "18f1",
+  "description": "Unity Ads is a video ad network for iOS and Android that allows you to quickly and effectively monetize your games.",
+  "keywords": [
+    "ads",
+    "unity"
+  ],
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "upmCi": {
+    "footprint": "c72e5f7e5d0ce19dc5d6253c20ad0578f96a6f1b"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.ads.git",
+    "type": "git",
+    "revision": "ab3a6380cc63de42109e9bb214b8ae979f1c26bd"
+  }
+}
