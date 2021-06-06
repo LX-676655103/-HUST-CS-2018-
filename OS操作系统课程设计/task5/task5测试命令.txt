@@ -1,0 +1,39 @@
+register lx 123456
+register lx 123
+register llx 123456
+register lllx 123456
+show
+
+login lx 123
+login lx 123456
+
+ls
+touch   123
+ls
+    mkdir   aaa    
+mkdir   bbb/ccc/ddd
+ls
+cd bbb
+ls
+cd ccc
+ls
+cd ddd
+ls
+cd ..
+ls
+gedit aaa
+gedit 123
+cat 123
+cat aaa
+
+touch a/b/123
+rmdir a
+
+
+
+
+
+
+
+
+ 
